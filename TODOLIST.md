@@ -28,10 +28,10 @@
 ## 🧭 Navigation + Layout
 
 - [ ] Build responsive navigation bar
-- [ ] Add smooth scrolling to sections:
-  - [ ] About
-  - [ ] Portfolio
-  - [ ] Contact
+- [x] Add smooth scrolling to sections:
+  - [x] About
+  - [x] Portfolio
+  - [x] Contact
 - [ ] Add active section highlighting (scrollspy effect, optional)
 
 ---

@@ -7,6 +7,10 @@
   --foreground: #ededed;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 @theme {
   --font-sans: var(--font-inter);
 }
